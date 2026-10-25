@@ -54,10 +54,10 @@ git config --global user.name
 **Obtenu** :
 
 ```text
-À compléter
+Larhlimi-ia
 ```
 
-- [ ] Conforme
+- [x] Conforme
 
 **Commentaire** :
 
